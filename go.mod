@@ -21,6 +21,6 @@ require (
 	github.com/streadway/amqp v1.0.0
 	github.com/wagslane/go-rabbitmq v0.6.2
 	github.com/wsddn/go-ecdh v0.0.0-20161211032359-48726bab9208
-	golang.org/x/crypto v0.0.0-20191108234033-bd318be0434a
-	golang.org/x/net v0.0.0-20211029224645-99673261e6eb
+	golang.org/x/crypto v0.35.0
+	golang.org/x/net v0.25.0
 )
